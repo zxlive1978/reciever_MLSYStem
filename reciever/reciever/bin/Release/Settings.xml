@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+    <source_path>Y:\</source_path>
+    <destination_path>C:\test</destination_path>
+    <current_time_name>TIME_030</current_time_name>
+    <wr_time>False</wr_time>
+    <loading_store>False</loading_store>
+    <wr_store>False</wr_store>
+    <pause_sec>1000</pause_sec>
+    <pause_sec_dep>500</pause_sec_dep>
+    <buffer_zap>1</buffer_zap>
+</Settings>

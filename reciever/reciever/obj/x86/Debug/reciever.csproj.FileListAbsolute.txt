@@ -1,0 +1,68 @@
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.exe
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.pdb
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER\reciever\reciever\bin\Debug\reciever.exe
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER\reciever\reciever\bin\Debug\reciever.pdb
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.Form1.resources
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.Properties.Resources.resources
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.csproj.GenerateResource.Cache
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.setings.resources
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.Properties.Resources.resources
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.statistics.resources
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.csproj.GenerateResource.Cache
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER\reciever\reciever\bin\Debug\ini.cs
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER\reciever\reciever\bin\Debug\reciever.exe
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER\reciever\reciever\bin\Debug\reciever.pdb
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.exe
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\bin\Debug\ini.cs
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\bin\Debug\reciever.exe
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\bin\Debug\reciever.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.setings.resources
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.statistics.resources
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.exe
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER\reciever\reciever\obj\x86\Debug\reciever.pdb
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\ini.cs
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.exe.config
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.exe.manifest
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.application
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.exe
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.pdb
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.setings.resources
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.Properties.Resources.resources
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.csproj.GenerateResource.Cache
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.exe.manifest
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.application
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.exe
+C:\Users\SERGE\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.pdb
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\ini.cs
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.exe.config
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.exe.manifest
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.application
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.exe
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.pdb
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.setings.resources
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.Properties.Resources.resources
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.csproj.GenerateResource.Cache
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.exe.manifest
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.application
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.exe
+C:\Users\Вероника\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.exe.config
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.exe
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\ini.cs
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.exe.manifest
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.application
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.exe
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\bin\Debug\reciever.pdb
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.setings.resources
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.Properties.Resources.resources
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.exe.manifest
+C:\Documents and Settings\1\YandexDisk\Документы\RECIEVER2\reciever\reciever\obj\x86\Debug\reciever.application

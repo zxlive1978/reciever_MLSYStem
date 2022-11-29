@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+    <source_path>D:\DMAS200.223\STORE</source_path>
+    <destination_path>D:\</destination_path>
+    <current_time_name>TIME_003</current_time_name>
+    <wr_time>False</wr_time>
+    <loading_store>True</loading_store>
+    <wr_store>False</wr_store>
+    <pause_sec>3</pause_sec>
+    <buffer_zap>2000</buffer_zap>
+</Settings>
