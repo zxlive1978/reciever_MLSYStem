@@ -4,7 +4,7 @@
     <destination_path>C:\test</destination_path>
     <current_time_name>TIME_030</current_time_name>
     <wr_time>False</wr_time>
-    <loading_store>False</loading_store>
+    <loading_store>True</loading_store>
     <wr_store>False</wr_store>
     <pause_sec>1000</pause_sec>
     <pause_sec_dep>500</pause_sec_dep>

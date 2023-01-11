@@ -299,10 +299,12 @@ namespace reciever
             time.now_src_numbs_record = (int)numericUpDown2.Value;
 
             //Store
+           
             store.src = textBox1.Text;
             store.dst = textBox2.Text;
             store.time = "STORE";
             store.now_src_numbs_record = (int)numericUpDown3.Value;
+            
 
 
             backup_buffer_size = (int)numericUpDown2.Value;
@@ -507,80 +509,82 @@ namespace reciever
         //Чтение запись Store
         public void store_read_write()
         {
-
-
-            //Ошибка чтения
-            store.error = "";
-
-            ////Кол-во записей для чтения(записи) за один раз 
-
-            store.now_src_numbs_record = backup_buffer_size;
-            //Число записей в lst файле источника
-            if (store.error == "")
-            {
-                store.calc_src_numbs_record();
-            }
-            else { return; }
-            //Application.DoEvents();
-            //Число записей в lst файле приемника
-            if (store.error == "")
-            {
-                store.calc_dst_numbs_record();
-            }
-            else { return; }
-            Application.DoEvents();
-            //save_records = store.dst_numbs_record;
-            //save_percent = Math.Round(((double)save_records / store.src_numbs_record) * 100, 1);
-            //notifyIcon1.Text = current_store + ": \n" + save_records + "/" + store.src_numbs_record +
-            //"\n  " + save_percent + "%";
-
-            //Проверка нового файла
-            if (store.src_numbs_record <= store.dst_numbs_record)
+            if ((nastr.loading_store).ToString() == "True")
             {
 
-                //check_new_file();
-                return;
+                //Ошибка чтения
+                store.error = "";
 
-            }
-            else
-            {
+                ////Кол-во записей для чтения(записи) за один раз 
 
-
-                //Считываем запись 21 байт из lst источника по номеру
-                //store.numb_cur_lst_record = time.dst_numbs_record;
-                store.numb_cur_lst_record = store.dst_numbs_record;
-
-                if ((store.numb_cur_lst_record) < (store.src_numbs_record))
+                store.now_src_numbs_record = backup_buffer_size;
+                //Число записей в lst файле источника
+                if (store.error == "")
                 {
-                    if (store.error == "")
-                    {
-                        store.src_read_lst_record();
-                    }
-                    else { return; }
-                    //Application.DoEvents();
-                    //Считываем запись из dep источника 
-                    if (store.error == "")
-                    {
-                        store.src_read_dep_record();
-                    }
-                    else { return; }
-                    //Application.DoEvents();
+                    store.calc_src_numbs_record();
+                }
+                else { return; }
+                //Application.DoEvents();
+                //Число записей в lst файле приемника
+                if (store.error == "")
+                {
+                    store.calc_dst_numbs_record();
+                }
+                else { return; }
+                Application.DoEvents();
+                //save_records = store.dst_numbs_record;
+                //save_percent = Math.Round(((double)save_records / store.src_numbs_record) * 100, 1);
+                //notifyIcon1.Text = current_store + ": \n" + save_records + "/" + store.src_numbs_record +
+                //"\n  " + save_percent + "%";
 
-                    //Запись lst запись в приемник
-                    if (store.error == "")
-                    {
-                        store.dst_write_lst_record();
-                    }
-                    else { return; }
-                    //Application.DoEvents();
-                    //Запись dep записи в приемник
-                    if (store.error == "")
-                    {
-                        store.dst_write_dep_record();
-                    }
-                    else
-                    { return; }
+                //Проверка нового файла
+                if (store.src_numbs_record <= store.dst_numbs_record)
+                {
 
+                    //check_new_file();
+                    return;
+
+                }
+                else
+                {
+
+
+                    //Считываем запись 21 байт из lst источника по номеру
+                    //store.numb_cur_lst_record = time.dst_numbs_record;
+                    store.numb_cur_lst_record = store.dst_numbs_record;
+
+                    if ((store.numb_cur_lst_record) < (store.src_numbs_record))
+                    {
+                        if (store.error == "")
+                        {
+                            store.src_read_lst_record();
+                        }
+                        else { return; }
+                        //Application.DoEvents();
+                        //Считываем запись из dep источника 
+                        if (store.error == "")
+                        {
+                            store.src_read_dep_record();
+                        }
+                        else { return; }
+                        //Application.DoEvents();
+
+                        //Запись lst запись в приемник
+                        if (store.error == "")
+                        {
+                            store.dst_write_lst_record();
+                        }
+                        else { return; }
+                        //Application.DoEvents();
+                        //Запись dep записи в приемник
+                        if (store.error == "")
+                        {
+                            store.dst_write_dep_record();
+                        }
+                        else
+                        { return; }
+
+                    }
                 }
             }
 

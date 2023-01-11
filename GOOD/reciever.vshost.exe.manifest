@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="reciever.exe" size="423936">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="reciever.exe" size="425472">
       <assemblyIdentity name="reciever" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>tPvTaf0Y5YM7FyoL8srlbuiCqvc=</dsig:DigestValue>
+        <dsig:DigestValue>0A2ps/aja4COG6PTrw4wrj7l+9c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
